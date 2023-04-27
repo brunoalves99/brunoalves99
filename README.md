@@ -2,4 +2,4 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT and C#.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT e GIT.
